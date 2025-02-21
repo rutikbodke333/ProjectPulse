@@ -16,7 +16,7 @@
 
  What is  Projectplus ?
 
-Projectplus is a web-based platform designed to facilitate the connection between Job Seeker and companies. The primary goal of Projectplus is to provide a seamless environment where freelancers can find job opportunities and companies can find skilled professionals to hire for their projects. The platform supports two main user modules: Job Seeker and companies.
+Projectplus is a web-based platform designed to facilitate the connection between Job Seeker and companies. The primary goal of Projectplus is to provide a seamless environment where User can find job opportunities and companies can find skilled professionals to hire for their projects. The platform supports two main user modules: Job Seeker and companies.
 
 
 ## Main Modules
