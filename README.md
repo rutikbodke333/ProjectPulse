@@ -42,7 +42,6 @@ Projectplus is a web-based platform designed to facilitate the connection betwee
 
 
 - Accept or decline direct hire requests from companies.
-Communication
 
 ![Screenshot (164)](https://github.com/GauravPatilGR/Projectplus-Spring-MVC-Java-Project/assets/123281827/377a23bd-29d3-4429-a20e-dbc94c591f7b)
 
