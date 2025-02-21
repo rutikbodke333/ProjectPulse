@@ -60,7 +60,7 @@ Projectplus is a web-based platform designed to facilitate the connection betwee
 - Post new jobs and projects.
 - Specify job/project details, required skills, duration, and budget.
 - Freelancer Search and Hiring
-- Review applications from freelancers.
+- Review applications.
 - Accept or reject applications and manage the hiring process.
 
    ![Screenshot (159)](https://github.com/GauravPatilGR/Projectplus-Spring-MVC-Java-Project/assets/123281827/c5d407eb-8edd-4330-b277-4ce2b1e8d1bb)
